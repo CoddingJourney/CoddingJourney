@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CoddingJourney
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Frontend Companies
 - 📫 How to reach me linkedin.com/in/bikram-gyawali-a545422b2
 - 😄 Pronouns: CodingJourney
 - ⚡ Fun fact: Enthusiast in Coding

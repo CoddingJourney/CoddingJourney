@@ -14,5 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=coddingjourney&icon=0&color=11)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=coddingjourney&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coddingjourney&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=coddingjourney&icon=0&color=11)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=coddingjourney&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
